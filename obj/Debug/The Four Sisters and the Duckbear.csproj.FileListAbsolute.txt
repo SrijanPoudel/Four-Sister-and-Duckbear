@@ -1,0 +1,7 @@
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\bin\Debug\The Four Sisters and the Duckbear.exe.config
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\bin\Debug\The Four Sisters and the Duckbear.exe
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\bin\Debug\The Four Sisters and the Duckbear.pdb
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\obj\Debug\The Four Sisters and the Duckbear.csproj.AssemblyReference.cache
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\obj\Debug\The Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\obj\Debug\The Four Sisters and the Duckbear.exe
+C:\Users\ERC\Desktop\C#\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear\obj\Debug\The Four Sisters and the Duckbear.pdb
